@@ -1,11 +1,14 @@
 # IB HL Project
 ## Pathway: IB HL
 
-## User: Who might use it?
+## User: High school or college student
 
-## Problem: What need could it address?
+## Problem: Need for effective planning applications integrated with mental and physical health tracking
 
-## Features: Three possible features
+## Features:
+* journal/log
+* calendar
+* efficient UI
 
-## Question: What must you learn or investigate?
+## Question: How do we create an application both useful but simple enough for broad use across users.
 
