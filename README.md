@@ -10,5 +10,5 @@
 * calendar
 * efficient UI
 
-## Question: How do we create an application both useful but simple enough for broad use across users.
+## Question: How do we create an application both useful but simple enough for broad use across users?
 
