@@ -1,7 +1,7 @@
 
 ## System challenge 
 * Managing levels of customization allowed
-* ![Example of the way 'blocks' work](https://images.ctfassets.net/spoqsaf9291f/4WMSDtdzR2zyWWByTFT4vE/13d2321d5d2671bce13e2285d823a2f3/Notion_for_desktop_-_hero.png)
+![Example of the way 'blocks' work](https://images.ctfassets.net/spoqsaf9291f/4WMSDtdzR2zyWWByTFT4vE/13d2321d5d2671bce13e2285d823a2f3/Notion_for_desktop_-_hero.png)
 * More customization means more complexity
 ## Inputs and outputs 
 * User mouse click and drag to select options as input
