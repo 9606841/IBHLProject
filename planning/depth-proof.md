@@ -9,11 +9,13 @@
 ## Possible structure 
 * Different subclasses for each block type
 * Potential connections to external calendar application
+<img width="956" height="821" alt="IB HL Project" src="https://github.com/user-attachments/assets/a407bb28-e234-4e7c-96c5-a8358eb651cf" />
 ## Technical risk 
 * Interactions between blocks graphically may have issues
 * Nesting blocks inside of each other
 ## Prototype plan 
-* Sample block creation allowing for written text
+* Sample block creation allowing for written text![Uploading IB HL Project.png…]()
+
 * Two blocks that can be clicked and dragged to test interactions
 ## Depth defense 
 * Interactions between blocks demand unique code behind the scenes to coordinate what to do with input and output
