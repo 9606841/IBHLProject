@@ -9,7 +9,7 @@
 ## Possible structure 
 * Different subclasses for each block type
 * Potential connections to external calendar application
-<img width="956" height="821" alt="IB HL Project" src="https://github.com/user-attachments/assets/a407bb28-e234-4e7c-96c5-a8358eb651cf" />
+![Structural UML](downloads/IB HL Project.png)
 
 ## Technical risk 
 * Interactions between blocks graphically may have issues
