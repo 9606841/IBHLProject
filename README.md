@@ -12,5 +12,5 @@
 
 ## Question: How do we create an application both useful but simple enough for broad use across users?
 ## UML
-![Class Structural Diagram](images/IB HL Project.png)
+![Class Structural Diagram](https://github.com/9606841/IBHLProject/blob/main/images/IB%20HL%20Project.png)
 
