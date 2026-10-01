@@ -1,4 +1,4 @@
-from Block import block
+from block import Block
 
 class Calendar(Block):
   
