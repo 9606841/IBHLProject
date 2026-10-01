@@ -1,4 +1,4 @@
-class block:
+class Block:
   def __init__(x, y, w, l):
     self.x = x
     self.y = y
