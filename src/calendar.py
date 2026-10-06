@@ -2,7 +2,7 @@ from block import Block
 
 class Calendar(Block):
   
-  def __init__(month):
+  def __init__(self, month):
     self.month = month
   
   def update():
